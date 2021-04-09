@@ -1,6 +1,6 @@
 # Movie Recommender System
-> A simple Movie Recommender using Python and GUI using Tkinter.<br>   
-> In this project I used Weighted Average and Content Based Recommendation. The Formula for Weighted Average is given by:  
+> A simple Movie Recommender using Python and GUI using Tkinter.<br>
+In this project I used Weighted Average and Content Based Recommendation. The Formula for Weighted Average is given by:  
 
 ![](/formula.png)
 
@@ -16,7 +16,7 @@ Clone the base repo onto your desktop with `git` as follows:
 $ git clone https://github.com/shinigamiloveapple/Movie_Recommendation_System.git
 ```
 ### Data
-The Data used here is **5000 TMBD Dataset**. This dataset have movies from different websites with rating given by users after watching the movie.<br>  
+The Data used here is **5000 TMBD Dataset**. This dataset have movies from different websites with rating given by users after watching the movie.<br>
 The Dataset contains two files;
 * The ***tmdb_5000_credits.csv***:
     * It contains *movie_id*,*title*,*cast*,*crew*.
